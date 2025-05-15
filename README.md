@@ -9,7 +9,7 @@ and use it 3 times inside the `App` instead of static markup.
 - If a person is not married, display the message "I am not married";
 - Ensure that the class names in `Person.jsx` match those used in `App.jsx` (`Person`, `Person__name`, `Person__age`, `Person__partner`).
 
-**Important:** The constants `misha`, `olya`, and `alex` are valid and should not be modified.
+**Important:** The constants `misha`, `olya`, and `alex` are valid and should not be modified. Property `age` is optional.
 
 ## Instructions
 - Install Prettier Extension and use this [VSCode settings](https://mate-academy.github.io/fe-program/tools/vscode/settings.json) to enable format on save.
